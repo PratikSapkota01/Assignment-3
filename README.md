@@ -27,10 +27,15 @@ Confidentiality*
 ### I will create a website for my Infomation Technology Fundamental Assignment 3 where i will talk about Chatgpt.
 
 ### It contains:
+
 *- A heading "Hello, this is my webpage"*
+
 *- A name entry form*
+
 *- A day and night mode toggle button*
-*- Five images related to ChatGPT and descriptions
+
+*- Five images related to ChatGPT and descriptions*
+
 *- Simple HTML, CSS, and JavaScript for functionality*
 
 
